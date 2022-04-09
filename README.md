@@ -7,4 +7,10 @@ Create Scan reports from Burp XML file using Document (DOCX) Template.
 
 > reportgen.py source.
 
-Output will be a .docx file based on template.docx 
+Output
+
+> Finalreport_{malcode}.docx file based on template.docx
+
+> log.txt (A log file)
+
+> Skipped.txt (Repeated Issues that are already reported)
