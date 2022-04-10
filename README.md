@@ -1,4 +1,4 @@
-# BurpXML2DOCX
+# Burp XML 2 DOCX
 Burp XML to Docx Report Generator
 
 Create Scan reports from Burp XML file using Document (DOCX) Template.
