@@ -1,7 +1,7 @@
 # Burp XML 2 DOCX
 Burp XML to Docx Report Generator
 
-Create Scan reports from Burp XML file using Document (DOCX) Template.
+Create reports from Burp XML file using Document (DOCX) Template.
 
 > reportgen.exe for Windows OS
 
