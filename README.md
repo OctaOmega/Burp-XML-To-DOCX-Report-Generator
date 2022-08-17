@@ -11,6 +11,6 @@ Output
 
 > Finalreport_{malcode}.docx file based on template.docx
 
-> log.txt (A log file)
+> log.txt (Log file)
 
 > Skipped.txt (Repeated Issues that are already reported)
