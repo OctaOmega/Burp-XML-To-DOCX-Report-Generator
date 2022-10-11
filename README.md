@@ -18,6 +18,9 @@ https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator/archive/refs/head
 ```
 run reportgen.exe from the Directory
 ```
+#### 	**Please _do not rename or replace_ any of the image files or template.docx**
+#### Refer jinja2 for managing tags or docxtpl documentation here - https://docxtpl.readthedocs.io/en/latest/ for customizing template.docx
+#### Final Report.docx, Log.txt & Skipped.txt will generated in specified Report Destination path.
 ### reportgen.exe for Windows OS  - GUI
 
 ![Screen1](https://user-images.githubusercontent.com/85091462/194997449-430cefe9-931d-4c69-9089-ab89607c97c1.jpg)
