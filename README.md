@@ -14,7 +14,7 @@ git clone https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator.git
 
 https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator/archive/refs/heads/main.zip
 
-#### Windows 
+## Windows 
 ```
 run reportgen.exe from the Directory
 ```
