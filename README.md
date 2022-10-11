@@ -2,6 +2,16 @@
 ## Burp XML to Docx Report Generator
 
 #### Create Ms Word reports from Burp XML file using Document (DOCX) Template.
+## Installation
+
+#### Clone git repository
+
+```
+git clone https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator.git
+```
+#### Download as Zip
+
+https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator/archive/refs/heads/main.zip
 
 ### reportgen.exe for Windows OS  - GUI
 
