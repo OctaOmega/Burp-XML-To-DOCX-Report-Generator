@@ -7,7 +7,15 @@
 
 ![Screen1](https://user-images.githubusercontent.com/85091462/194997449-430cefe9-931d-4c69-9089-ab89607c97c1.jpg)
 
-### reportgen.py source.
+### reportgen.py source - Linux / Windows 
+
+#### Make sure to install the dependencies.
+
+pip install docxtpl
+pip install socket
+pip install HTMLParser
+pip install bs4
+pip install PySimpleGUI
 
 ## Output
 
@@ -23,3 +31,5 @@
 #### Duplicate issues that are skipped from the report
 
 ![Duplicate issues that are skipped from the report](https://user-images.githubusercontent.com/85091462/194998161-d3b0d924-ade9-4282-b399-86068fe116d0.jpg)
+
+## 
