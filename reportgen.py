@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''''
 Burp XML To Docx Report Generator
 Version 2.0
@@ -11,7 +13,7 @@ from html.parser import HTMLParser
 import base64
 from bs4 import BeautifulSoup
 import PySimpleGUI as sg
-from os import _exit
+from os import _exit, path
 
 
 # Variables
@@ -32,9 +34,10 @@ assessor_name = "NA"
 assement_comp_date = "NA"
 tech_contact = "NA"
 clarity_code = "NA"
-image_logo = ("burptdoc.png") #APP Logo
-win_icon = ("app.ico") #APP ICON
-docx_template_file = ("template.docx") #Report Template
+curr_Wrk_dir = path.dirname(__file__)
+image_logo = (fr"{curr_Wrk_dir}\burptdoc.png") #APP Logo
+win_icon = (fr"{curr_Wrk_dir}\app.ico") #APP ICON
+docx_template_file = (fr"{curr_Wrk_dir}\template.docx") #Report Template
 
 # Layouts
 
