@@ -10,5 +10,7 @@ Create Ms Word reports from Burp XML file using Document (DOCX) Template.
 Output
 
 > Finalreport_{malcode}.docx file based on template.docx
+
 > log.txt (Log file)
+
 > Skipped.txt (Repeated Issues that are already reported)
