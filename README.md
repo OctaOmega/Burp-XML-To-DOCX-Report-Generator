@@ -1,5 +1,5 @@
 # Burp XML 2 DOCX 2.0
-## Burp XML to Docx Report Generator
+## Burp XML to Docx Report Generator (Converter)
 
 #### Create MS Word reports from Burp XML file using Document (DOCX) Template.
 
