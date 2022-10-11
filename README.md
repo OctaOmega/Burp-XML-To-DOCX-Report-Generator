@@ -2,22 +2,27 @@
 ## Burp XML to Docx Report Generator
 
 #### Create Ms Word reports from Burp XML file using Document (DOCX) Template.
+
 ## Installation
 
-#### Clone git repository
+#### Clone git repository:
 
 ```
 git clone https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator.git
 ```
-#### Download as Zip
+#### Download as Zip:
 
 https://github.com/OctaOmega/Burp-XML-To-DOCX-Report-Generator/archive/refs/heads/main.zip
+
+#### Windows 
+
+run reportgen.exe from the Directory
 
 ### reportgen.exe for Windows OS  - GUI
 
 ![Screen1](https://user-images.githubusercontent.com/85091462/194997449-430cefe9-931d-4c69-9089-ab89607c97c1.jpg)
 
-### reportgen.py source - Linux / Windows 
+### reportgen.py source - Linux / Windows (Running as python Script)
 
 #### Make sure to install the dependencies.
 
@@ -27,6 +32,10 @@ pip install socket
 pip install HTMLParser
 pip install bs4
 pip install PySimpleGUI
+```
+#### Change file Permission:
+```
+chmod +x reportgen.py
 ```
 ## Output
 
