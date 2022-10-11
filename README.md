@@ -11,12 +11,13 @@
 
 #### Make sure to install the dependencies.
 
-#### pip install docxtpl
-#### pip install socket
-#### pip install HTMLParser
-#### pip install bs4
-#### pip install PySimpleGUI
-
+```
+pip install docxtpl
+pip install socket
+pip install HTMLParser
+pip install bs4
+pip install PySimpleGUI
+```
 ## Output
 
 ### Finalreport_{malcode}.docx file based on template.docx
